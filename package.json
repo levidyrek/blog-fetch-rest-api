@@ -1,0 +1,14 @@
+{
+  "name": "blog-fetch-rest-api",
+  "version": "1.0.0",
+  "description": "Example code for using Fetch effectively with a REST API.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Levi Payne",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
